@@ -1,0 +1,1 @@
+Oh my sites! It's a test for my project, https://0-5.uk, a DuckDNS which points to github pages too! Or an IP address. Or even a link shortener! I'm just testing it out with my own github pages. Happy coding!
